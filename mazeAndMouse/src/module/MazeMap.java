@@ -8,7 +8,7 @@ public class MazeMap {
     // 0 means can move
     // 1 means barriers, can not move
     // 2 means already checked a specific grid which is 0 before
-    // 3 means alredy checked a specific grid which is 1 before
+    // 3 means already checked a specific grid which is 1 before
     int canMove = 0;
     int barrier = 1;
     int checkedMove = 2;

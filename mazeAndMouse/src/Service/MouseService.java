@@ -55,10 +55,4 @@ public class MouseService {
             System.out.println();
         }
     }
-
-//    public void isEscape() {
-//        if(findWay()) {
-//            System.out.println("mouse " + mouse.getName() + " escapes successfully from our maze!");
-//        }
-//    }
 }

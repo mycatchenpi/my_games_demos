@@ -49,7 +49,4 @@ public class MazeMapService {
             System.out.println();
         }
     }
-
-
-
 }

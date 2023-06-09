@@ -14,7 +14,7 @@ public class Main {
         ms.drawMap();
         // display maze map
         ms.showMazeMap();
-        System.out.println("--------------------------");
+        System.out.println("--------------");
 
         // create a mouse to find a way leaving maze map
         Mouse mouse = new Mouse("Mickey");

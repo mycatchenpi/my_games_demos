@@ -5,7 +5,7 @@ public class Mouse {
 
     public Mouse(String name) {
         this.name = name;
-        System.out.println("mouse " + name + " is tring to find a way to escape this maze!");
+        System.out.println("mouse " + name + " is tring to find a way to escape from our maze!");
     }
 
     public String getName() {
